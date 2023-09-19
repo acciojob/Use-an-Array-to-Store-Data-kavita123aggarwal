@@ -20,3 +20,5 @@ let complexArray = [['one', 2, 'three', true, false, undefined, null
     }
   ]
 ];
+let yourArray = ['Hello', 42, true, 'World', 7];
+
